@@ -1,2 +1,2 @@
-# second-project
-This is our second project
+These are 2 functions used for converting celcius to fahrenheit and fahrenheit to celcuis
+to celcius
